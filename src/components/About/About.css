@@ -1,0 +1,76 @@
+.About {
+    background: grey;
+    display: flex;
+    height: 950px;
+    padding-top: 80px;
+    position: relative; /*parent is set as relative */
+    flex-direction: column;
+}
+.Aboutdetails {
+    flex-direction: row;
+}
+img {
+    position: absolute;
+    left: 53%;
+    width: 400px;
+    max-height: 250px;
+}
+
+p {
+    position: absolute;
+    color: white;
+    width: 40%;
+    left: 8%;
+    text-align: justify;
+    
+}
+
+
+
+@media only screen and (max-width: 850px) {
+
+    .About .Aboutdetails {
+        flex-direction: column-reverse;
+    }
+    img {
+        position: absolute;
+        left: 8%;
+        width: 84%;
+        height: 250px;
+        visibility: hidden;
+        
+    }
+    
+    p {
+        position: absolute;
+        left: 5%;
+        color: white;
+        width: 90%;
+        text-align: justify;
+    }
+    
+}
+
+@media only screen and (max-width: 600px) {
+
+    .About .Aboutdetails {
+        flex-direction: column-reverse;
+    }
+    img {
+        position: absolute;
+        left: 8%;
+        width: 84%;
+        height: 250px;
+        visibility: hidden;
+        
+    }
+    
+    p {
+        position: absolute;
+        left: 5%;
+        color: white;
+        width: 90%;
+        text-align: justify;
+    }
+    
+}
