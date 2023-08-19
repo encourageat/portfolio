@@ -17,10 +17,11 @@ const MobileNavigation = () => {
                     size='40px' color='white' 
                     onClick={() => setOpen(!open)}
                 />
+    const closeMobileMenu = () => setOpen(false);
     return (
         <nav className="MobileNavigation"> 
             {open ? hamClose : hamOpen}
-            {open && <NavLinks/>}
+            {open && <NavLinks isMobile={true} closeMobileMenu={closeMobileMenu}/>}
         </nav>
       );    
 }
