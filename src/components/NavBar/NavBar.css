@@ -67,7 +67,7 @@ a {
 
     .NavBar nav ul li {
         display: inline-block;
-        margin: 5px;
+        margin: 8px;
     }
 
     .NavBar a:hover {
