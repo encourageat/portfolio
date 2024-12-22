@@ -9,32 +9,27 @@ const Home = () => {
             <PageHeader title={'Welcome..'}/>
         </div>
         <div className="Homedetails">
+        
         <p>
-            Free online training on Identity And Access Management (IAM)
-            <br/>
-            <br/>
-            Topics:
-            <ul>
-            <li>
-            Introduction to IAM and how it works.
-            </li>
-            <br/>
-            <li>
-            Keycloak basics
-            </li>
-            <br/>
-            <li>
-            Single Sign On (SSO), OAuth, OpenID Connect and SAML
-            </li>
-            <br/>
-            <li>
-            User provisioning.
-            </li>
-            </ul>
-            <br/>
-            Contact Email: 
-            <br/>
-            encourageat@gmail.com
+        This is a portfolio site which has a summary about myself and a link to a blog site I am maintaining.
+        <br/>
+        <br/>
+        <h2>About..</h2>
+        I am George V. Thomas, a graduate mechanical engineer who at initial days worked in the mechanical industry for a short term and later got switched to software firms.
+        <br/> 
+        <br/>
+        Domain Experience: Payment, Identity and Access Management, CAD
+        <br/>
+        <br/>
+        In software firms, I have experience about 22+ years.  My current company is Trianz, Bangalore where I work for 16+ years and over the past 6+ years as an Architect.
+        <br/>
+        <br/>
+        Interested in job opportunities to lead a team or work as a Sr. Software Architect in Java/J2EE or related technolgies in Kerala (preferred and actively exploring), Bangalore or remote
+        <br/>
+        <br/>
+        Contact Email: 
+        <br/>
+        georgeth471@gmail.com
         </p>
         <img src={pinkflower} alt="pink flower image"></img>
         </div>

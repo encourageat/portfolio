@@ -6,7 +6,7 @@ const NavLinks = (props) => {
                 <a href="/portfolio">Home</a>
             </li>
             <li onClick = {() =>props.isMobile && props.closeMobileMenu()}>
-                <a href="/portfolio/#/about">About</a>
+                <a href="/portfolio/#/blog">Blog</a>
             </li>
             <li onClick = {() =>props.isMobile && props.closeMobileMenu()}>
                 <a href="/portfolio/#/contact">Contact</a>
