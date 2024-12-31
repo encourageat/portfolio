@@ -1,5 +1,5 @@
 .About {
-    background: grey;
+    background: white;
     display: flex;
     height: 950px;
     padding-top: 80px;
@@ -12,13 +12,13 @@
 img {
     position: absolute;
     left: 53%;
-    width: 400px;
-    max-height: 250px;
+    width: 550px;
+    max-height: 720px;
 }
 
 p {
     position: absolute;
-    color: white;
+    color: black;
     width: 40%;
     left: 8%;
     text-align: justify;
@@ -44,7 +44,7 @@ p {
     p {
         position: absolute;
         left: 5%;
-        color: white;
+        color: black;
         width: 90%;
         text-align: left;
     }
@@ -68,7 +68,7 @@ p {
     p {
         position: absolute;
         left: 5%;
-        color: white;
+        color: black;
         width: 90%;
         text-align: left;
     }

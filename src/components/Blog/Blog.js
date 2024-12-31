@@ -2,6 +2,7 @@ import './Blog.css'
 //import { useEffect } from 'react'
 import PageHeader from '../PageHeader/PageHeader'
 import pinkflower from '../../img/pinkflower.jpg'
+import Footer from '../../components/Footer/Footer'
 
 
 const Blog = () => {
@@ -19,6 +20,7 @@ const Blog = () => {
         </p>
         <img src={pinkflower} alt="pink flower image"></img>
         </div>
+        <Footer/>
         </div>
       );    
 }

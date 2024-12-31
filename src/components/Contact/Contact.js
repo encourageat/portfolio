@@ -1,6 +1,7 @@
 import './Contact.css'
 import PageHeader from '../../components/PageHeader/PageHeader'
 import pinkflower from '../../img/pinkflower.jpg'
+import Footer from '../../components/Footer/Footer'
 
 const Contact = () => {
     return (
@@ -16,6 +17,7 @@ const Contact = () => {
         </p>
         <img src={pinkflower} alt="pink flower image"></img>
         </div>
+        <Footer/>
         </div>
       );   
 }
