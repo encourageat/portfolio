@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="container mx-auto text-center">
-        <h3>&copy; {new Date().getFullYear()} - Encourageat</h3>
+        <h3>&copy; {new Date().getFullYear()} - EncourageAt</h3>
       </div>
     </footer>
   );

@@ -16,16 +16,16 @@ const Home = () => {
         <br/>
         <br/>
         <h2>About..</h2>
-        I am George V. Thomas, a graduate mechanical engineer who at initial days worked in the mechanical industry for a short term and later got switched to software firms.
+        I am George V. Thomas, a graduate engineer who at initial days worked in the mechanical industry for a short term and later got switched to software firms.
         <br/> 
         <br/>
-        Domain Experience:<br/> Payment, Identity and Access Management, CAD
+        Domain Experience:<br/> Identity and Access Management, Payment etc.
         <br/>
         <br/>
-        In software firms, I have experience about 22+ years.  My current company is Trianz, Bangalore where I work for 16+ years and over the past 6+ years as an Architect.
+        In software firms, I have experience about 23+ years.  My current company is Trianz, Bangalore where I work for 16+ years and over the past 6+ years as an Architect.
         <br/>
         <br/>
-        Interested in job opportunities to lead a team or work as a Sr. Software Architect in Java/J2EE or related technolgies in Kerala
+        Interested in suitable job opportunities in the Identity and Access Management domain, leading a team, or working as a Software Architect in Java or related technologies.
         </p>
         <img src={pinkflower} alt="pink flower image"></img>
         </div>

@@ -13,7 +13,7 @@ const Contact = () => {
         <p>
             Email: 
             <br/>
-            georgeth471@gmail.com
+            encourageat@gmail.com
         </p>
         <img src={pinkflower} alt="pink flower image"></img>
         </div>
