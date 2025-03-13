@@ -8,11 +8,9 @@ const Home = () => {
         <div className="Home"> 
         <div>
             <PageHeader title={'Welcome..'}/>
-        </div>
+        </div>      
         <div className="Homedetails">
-        
-        <p>
-        This is a portfolio site which has a summary about myself and a link to a blog site I am maintaining.
+        <p>Open to immediate roles..
         <br/>
         <br/>
         <h2>About..</h2>
@@ -22,10 +20,9 @@ const Home = () => {
         Domain Experience:<br/> Identity and Access Management, Payment etc.
         <br/>
         <br/>
-        In software firms, I have experience about 23+ years.  My current company is Trianz, Bangalore where I work for 16+ years and over the past 6+ years as an Architect.
+        I am an experienced Software Architect specializing in Identity and Access Management (IAM) and Java technologies, with over 23 years experience with software firms. Open to opportunities which I can perform from Kerala state of India, including contract, freelance and part time roles in IAM or Java-related domains.  
         <br/>
-        <br/>
-        Interested in suitable job opportunities in the Identity and Access Management domain, leading a team, or working as a Software Architect in Java or related technologies.
+        <br/>Email: encourageat@gmail.com
         </p>
         <img src={pinkflower} alt="pink flower image"></img>
         </div>
