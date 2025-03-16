@@ -10,17 +10,21 @@ const Home = () => {
             <PageHeader title={'Welcome..'}/>
         </div>      
         <div className="Homedetails">
-        <p>Open to immediate roles..
-        <br/>
-        <br/>
+        <p>
         <h2>About..</h2>
-        I am George V. Thomas, a graduate engineer who at initial days worked in the mechanical industry for a short term and later got switched to software firms.
+        I am George V. Thomas, a graduate engineer with over 23 years of experience with software companies mainly in development. 
+        <br/>
+        <br/> 
+        I'm an experienced Software Architect specializing in Identity and Access Management (IAM) and Java technologies.
         <br/> 
         <br/>
         Domain Experience:<br/> Identity and Access Management, Payment etc.
         <br/>
         <br/>
-        I am an experienced Software Architect specializing in Identity and Access Management (IAM) and Java technologies, with over 23 years experience with software firms. Open to opportunities which I can perform from Kerala state of India, including contract, freelance and part time roles in IAM or Java-related domains.  
+        Skills:
+        <br/>
+        Java, Spring Boot, Spring Security, Spring Batch, Spring Data JPA, Spring Cloud, OAuth 2, SAML 2, OpenID Connect, IAM, Keycloak, Docker, Microservices, REST, SOAP, RabbitMQ, CI/CD pipeline, Jenkins,PostgreSQL, LDAP, Microsoft Azure, C++, JavaScript, Okta, React JS, Agile methodologies, Swagger, Git etc.
+        
         <br/>
         <br/>Email: encourageat@gmail.com
         </p>
